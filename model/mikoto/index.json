@@ -1,0 +1,68 @@
+{
+    "type":"Live2D Model Setting",
+    "name":"mikoto-3695903",
+    "label":"mikoto",
+    "model":"model.moc",
+    "textures":[
+        "mikoto.1024/texture_00.png",
+		"mikoto.1024/texture_01.png"
+    ],
+    "layout":{
+        "center_x": 0.0,
+		"center_y": -0.25,
+		"width": 2.6,
+        "height": 2.3
+    },
+	"hit_areas_custom":{
+		"head_x":[-0.35, 0.6],
+		"head_y":[0.19, -0.2],
+		"body_x":[-0.3, -0.25],
+		"body_y":[0.3, -0.9]
+	},
+    "motions": {
+		"tap": [
+		  {
+			"file": "motions/tap/motion1.mtn"
+		  },
+		  {
+			"file": "motions/tap/motion10.mtn"
+		  },
+		  {
+			"file": "motions/tap/motion11.mtn"
+		  },
+		  {
+			"file": "motions/tap/motion12.mtn"
+		  },
+		  {
+			"file": "motions/tap/motion13.mtn"
+		  },
+		  {
+			"file": "motions/tap/motion14.mtn"
+		  },
+		  {
+			"file": "motions/tap/motion2.mtn"
+		  },
+		  {
+			"file": "motions/tap/motion3.mtn"
+		  },
+		  {
+			"file": "motions/tap/motion4.mtn"
+		  },
+		  {
+			"file": "motions/tap/motion5.mtn"
+		  },
+		  {
+			"file": "motions/tap/motion6.mtn"
+		  },
+		  {
+			"file": "motions/tap/motion7.mtn"
+		  },
+		  {
+			"file": "motions/tap/motion8.mtn"
+		  },
+		  {
+			"file": "motions/tap/motion9.mtn"
+		  }
+		]
+	},
+}
