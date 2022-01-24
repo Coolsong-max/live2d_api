@@ -2,14 +2,14 @@
     "models": [
         "Kobayaxi",
         "kuroko",
-		"mikoto",
+        "mikoto",
         "bilibili-live/22",
         "bilibili-live/33"
     ],
     "messages": [
         "呐呐，我是 康奈 ~",
         "夹击妹抖-白井黑子~",
-		"来自 常盘台中学 的 御坂美琴 ~",
+        "来自 常盘台中学 的 御坂美琴 ~",
         "来自 Bilibili Live 的 22 哦 ~",
         "来自 Bilibili Live 的 33 的说"
     ]
