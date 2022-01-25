@@ -5,73 +5,73 @@
     "model":"model.moc",
     "textures":[
         "texture_00/texture_00.png",
-		"texture_01/texture_01.png"
+        "texture_01/texture_01.png"
     ],
     "layout":{
         "center_x": 0.0,
-		"center_y": -0.25,
-		"width": 2.6,
+        "center_y": -0.25,
+        "width": 2.6,
         "height": 2.3
     },
 	"hit_areas_custom":{
-		"head_x":[-0.35, 0.6],
-		"head_y":[0.19, -0.2],
-		"body_x":[-0.3, -0.25],
-		"body_y":[0.3, -0.9]
+        "head_x":[-0.35, 0.6],
+        "head_y":[0.19, -0.2],
+        "body_x":[-0.3, -0.25],
+        "body_y":[0.3, -0.9]
 	},
     "motions": {
-		"tap": [
-		  {
-			"file": "motions/tap/motion1.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion10.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion11.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion12.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion13.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion14.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion15.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion16.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion17.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion2.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion3.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion4.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion5.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion6.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion7.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion8.mtn","fade_in":150,"fade_out":100
-		  },
-		  {
-			"file": "motions/tap/motion9.mtn","fade_in":150,"fade_out":100
-		  }
-		]
+        "tap": [
+          {
+        	"file": "motions/tap/motion1.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion10.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion11.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion12.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion13.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion14.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion15.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion16.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion17.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion2.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion3.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion4.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion5.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion6.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion7.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion8.mtn","fade_in":150,"fade_out":100
+          },
+          {
+        	"file": "motions/tap/motion9.mtn","fade_in":150,"fade_out":100
+          }
+        ]
   },
 }
