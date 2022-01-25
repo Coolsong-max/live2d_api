@@ -1,15 +1,16 @@
 {
     "models": [
         "Kobayaxi",
-        "kuroko",
-        "mikoto",
+        [
+            "ShizukuTalk/shizuku-48",
+            "ShizukuTalk/shizuku-pajama"
+        ],
         "bilibili-live/22",
         "bilibili-live/33"
     ],
     "messages": [
         "呐呐，我是 康奈 ~",
-        "夹击妹抖-白井黑子~",
-        "来自 常盘台中学 的 御坂美琴 ~",
+        "Shizuku Talk ！这里是 Shizuku ~",
         "来自 Bilibili Live 的 22 哦 ~",
         "来自 Bilibili Live 的 33 的说"
     ]
